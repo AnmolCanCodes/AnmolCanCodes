@@ -137,7 +137,12 @@ An AI agent that analyzes GitHub repositories end-to-end, using LangGraph-driven
 
 <div align="center">
 
-<a href="https://www.youtube.com/@AnmolCodesLive" target="_blank"><img src="https://img.shields.io/badge/YouTube-90EE90?style=for-the-badge&logo=youtube&logoColor=0D1117" alt="YouTube"/></a>
+<a href="https://x.com/Stateful_Anmol" target="_blank">
+  <img src="https://img.shields.io/badge/X-90EE90?style=for-the-badge&logo=x&logoColor=0D1117" alt="X"/>
+</a>
+<a href="mailto:anmol221105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-90EE90?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
+</a>
 <a href="https://www.linkedin.com/in/anmol-gupta-fr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-90EE90?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/CodessWAnmol" target="_blank"><img src="https://img.shields.io/badge/LeetCode-90EE90?style=for-the-badge&logo=leetcode&logoColor=0D1117" alt="LeetCode"/></a>
 
