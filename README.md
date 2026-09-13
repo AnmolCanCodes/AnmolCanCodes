@@ -1,139 +1,194 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=200&section=header&text=Anmol%20Gupta&fontSize=45&fontColor=0D1117&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=220&section=header&text=ANMOL%20GUPTA&fontSize=52&fontColor=0D1117&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=16&descColor=0D1117" width="100%"/>
+
+<br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=90EE90&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer;Building+RAG+%26+LangGraph+Agents;FastAPI+%2B+React+%2B+TypeScript;Turning+Data+into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=90EE90&center=true&vCenter=true&width=700&lines=Building+AI-native+applications;RAG+%7C+LangGraph+%7C+AI+Agents;Python+%7C+FastAPI+%7C+React+%7C+TypeScript;Turning+ideas+into+software" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br><br>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-90EE90?style=for-the-badge&logo=briefcase&logoColor=0D1117)
+<a href="https://x.com/Stateful_Anmol">
+<img src="https://img.shields.io/badge/X-90EE90?style=for-the-badge&logo=x&logoColor=0D1117"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=AnmolCanCodes&label=Profile%20Views&color=90EE90&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/AnmolCanCodes?label=Followers&style=flat&color=90EE90" alt="followers"/>
+<a href="mailto:anmol221105@gmail.com">
+<img src="https://img.shields.io/badge/Email-90EE90?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anmol-gupta-fr">
+<img src="https://img.shields.io/badge/LinkedIn-90EE90?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+</a>
+
+<a href="https://leetcode.com/CodessWAnmol">
+<img src="https://img.shields.io/badge/LeetCode-90EE90?style=for-the-badge&logo=leetcode&logoColor=0D1117"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AnmolCanCodes&label=PROFILE+VIEWS&color=90EE90&style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-<br/>
+---
 
-## 🧠 Who I Am
+<div align="center">
 
-```typescript
-const anmol = {
-  title: "Full Stack AI Engineer",
-  stack: {
-    languages: ["Python", "JavaScript", "TypeScript"],
-    frontend: ["React", "HTML", "CSS", "Tailwind"],
-    backend: ["FastAPI", "PostgreSQL"],
-    ai_ml: ["LangChain", "LangGraph", "RAG", "NumPy", "Pandas", "Matplotlib", "Seaborn"],
-    cloud_devops: ["Vercel", "Railway", "Render"],
-  },
-  launchedProjects: [
-    "AI-Customer-Support-Copilot",
-    "AI-Repo-Intelligence-Agent",
-  ],
-  status: "Open to Work 🟢",
-  openTo: ["Full Stack Roles", "AI Engineering Roles", "Freelance / Collabs"],
-};
+## ⚡ I Build Things With AI
+
+</div>
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   Python            → Backend & AI                           │
+│   FastAPI           → APIs & Production Services             │
+│   React             → Frontend                               │
+│   TypeScript        → Full-Stack Applications                │
+│   RAG               → Knowledge Retrieval                     │
+│   LangGraph         → Stateful AI Agents                     │
+│   PostgreSQL        → Data                                   │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-<br/>
+I'm interested in the part where **AI stops being a demo and becomes actual software**.
 
-## 🚀 Featured Projects
+Currently focused on building AI-powered products, developer tools and agentic systems.
 
-### 🤖 AI-Customer-Support-Copilot
-
-An AI-powered support copilot that uses LLMs and a RAG pipeline to understand customer queries and generate accurate, context-aware responses automatically.
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolCanCodes&repo=AI-Customer-Support-Copilot&theme=nord&title_color=90EE90&icon_color=90EE90&border_color=90EE90" alt="AI-Customer-Support-Copilot"/>
+
+## 🚀 What I'm Building
+
 </div>
 
-| Layer | Technology |
-|---|---|
-| Backend | FastAPI |
-| AI / Orchestration | LangChain, RAG |
-| Database | PostgreSQL |
-| Frontend | React, TypeScript, Tailwind |
+<table>
+<tr>
 
-🔗 [Code](https://github.com/AnmolCanCodes/AI-Customer-Support-Copilot)
+<td width="50%">
 
-<br/>
+<h3>🤖 AI Customer Support Copilot</h3>
 
-### 🔍 AI-Repo-Intelligence-Agent
+AI-powered support software using LLMs + RAG to understand customer questions and generate context-aware responses.
 
-An AI agent that analyzes GitHub repositories end-to-end, using LangGraph-driven reasoning and RAG to answer questions and surface insights about a codebase.
+<br>
+
+**Stack**
+
+`FastAPI` `React` `TypeScript`
+`PostgreSQL` `LangChain` `RAG`
+
+<br>
+
+<a href="https://github.com/AnmolCanCodes/AI-Customer-Support-Copilot">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-90EE90?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🔍 AI Repository Intelligence Agent</h3>
+
+An AI agent that analyzes repositories and helps developers understand large codebases using RAG + LangGraph workflows.
+
+<br>
+
+**Stack**
+
+`Python` `FastAPI` `LangGraph`
+`RAG` `NumPy` `Pandas`
+
+<br>
+
+<a href="https://github.com/AnmolCanCodes/AI-Repo-Intelligence-Agent">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-90EE90?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolCanCodes&repo=AI-Repo-Intelligence-Agent&theme=nord&title_color=90EE90&icon_color=90EE90&border_color=90EE90" alt="AI-Repo-Intelligence-Agent"/>
-</div>
 
-| Layer | Technology |
-|---|---|
-| Backend | FastAPI, Python |
-| AI / Orchestration | LangGraph, RAG |
-| Data Handling | NumPy, Pandas |
+## 🧠 Tech Stack
 
-🔗 [Code](https://github.com/AnmolCanCodes/AI-Repo-Intelligence-Agent)
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,fastapi,postgres,git,github,vscode" />
 
-<br/>
+<br><br>
 
-## 🛠️ Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts" alt="languages"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="frontend"/>
-
-**Backend / Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres" alt="backend"/>
-
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=vercel,railway,render" alt="cloud"/>
-
-**AI / Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" alt="ai/data"/>
 <img src="https://img.shields.io/badge/LangChain-90EE90?style=for-the-badge&logo=langchain&logoColor=0D1117"/>
 <img src="https://img.shields.io/badge/LangGraph-90EE90?style=for-the-badge&logoColor=0D1117"/>
 <img src="https://img.shields.io/badge/RAG-90EE90?style=for-the-badge&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/Matplotlib-90EE90?style=for-the-badge&logo=plotly&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/Seaborn-90EE90?style=for-the-badge&logoColor=0D1117"/>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnmolCanCodes&show_icons=true&theme=nord&hide_border=true&title_color=90EE90&icon_color=90EE90&text_color=c9d1d9&bg_color=0D1117" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolCanCodes&layout=compact&theme=nord&hide_border=true&title_color=90EE90&text_color=c9d1d9&bg_color=0D1117" alt="top langs" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=AnmolCanCodes&theme=nord&hide_border=true&background=0D1117&ring=90EE90&fire=90EE90&currStreakLabel=90EE90" alt="streak stats"/>
+<img src="https://img.shields.io/badge/AI%20Agents-90EE90?style=for-the-badge&logoColor=0D1117"/>
 
 </div>
 
-<br/>
-
-## 🔗 Connect With Me
+---
 
 <div align="center">
 
-<a href="https://x.com/Stateful_Anmol" target="_blank">
-  <img src="https://img.shields.io/badge/X-90EE90?style=for-the-badge&logo=x&logoColor=0D1117" alt="X"/>
-</a>
+## 📊 GitHub
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnmolCanCodes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=90EE90&icon_color=90EE90&text_color=C9D1D9&ring_color=90EE90&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolCanCodes&layout=compact&hide_border=true&bg_color=0D1117&title_color=90EE90&text_color=C9D1D9" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolCanCodes&bg_color=0D1117&color=90EE90&line=90EE90&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/AnmolCanCodes/AnmolCanCodes/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚙️ Current Focus
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=90EE90&center=true&vCenter=true&width=650&lines=Building+AI+Agents;Learning+Production+AI;Shipping+Real+Projects;Understanding+How+AI+Changes+Software" alt="Current focus"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to
+
+`AI Engineering` · `Full Stack` · `Freelance` · `Collaborations`
+
+<br><br>
+
 <a href="mailto:anmol221105@gmail.com">
-  <img src="https://img.shields.io/badge/Email-90EE90?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
+<img src="https://img.shields.io/badge/LET'S%20BUILD-90EE90?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
-<a href="https://www.linkedin.com/in/anmol-gupta-fr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-90EE90?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/CodessWAnmol" target="_blank"><img src="https://img.shields.io/badge/LeetCode-90EE90?style=for-the-badge&logo=leetcode&logoColor=0D1117" alt="LeetCode"/></a>
 
-</div>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=footer" width="100%"/>
+
+</div>
