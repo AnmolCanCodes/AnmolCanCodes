@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🧠 Who I Am
+## Who I Am
 
 ```typescript
 const anmol = {
@@ -40,9 +40,9 @@ const anmol = {
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 AI-Customer-Support-Copilot
+###  AI-Customer-Support-Copilot
 
 An AI-powered support copilot that uses LLMs and a RAG pipeline to understand customer queries and generate accurate, context-aware responses automatically.
 
@@ -108,7 +108,7 @@ An AI agent that analyzes GitHub repositories end-to-end, using LangGraph-driven
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -121,7 +121,7 @@ An AI agent that analyzes GitHub repositories end-to-end, using LangGraph-driven
 
 <br/>
 
-### 🐍 Contribution Snake
+### Activity 
 
 
 <div align="center">
@@ -142,7 +142,7 @@ An AI agent that analyzes GitHub repositories end-to-end, using LangGraph-driven
 
 <br/>
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <div align="center">
 
