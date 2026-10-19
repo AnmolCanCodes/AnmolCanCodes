@@ -42,42 +42,14 @@ const anmol = {
 
 ## Featured Projects
 
-###  AI-Customer-Support-Copilot
+**[AI Customer Support Copilot](https://github.com/AnmolCanCodes/AI-Customer-Support-Copilot)**  
+RAG-powered support assistant for context-aware customer responses.  
+`FastAPI` · `LangChain` · `RAG` · `PostgreSQL` · `React`
 
-An AI-powered support copilot that uses LLMs and a RAG pipeline to understand customer queries and generate accurate, context-aware responses automatically.
+**[AI Repo Intelligence Agent](https://github.com/AnmolCanCodes/AI-Repo-Intelligence-Agent)**  
+A LangGraph agent that explores codebases and answers questions about repository structure and code.  
+`Python` · `FastAPI` · `LangGraph` · `RAG`
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolCanCodes&repo=AI-Customer-Support-Copilot&theme=nord&title_color=90EE90&icon_color=90EE90&border_color=90EE90" alt="AI-Customer-Support-Copilot"/>
-</div>
-
-| Layer | Technology |
-|---|---|
-| Backend | FastAPI |
-| AI / Orchestration | LangChain, RAG |
-| Database | PostgreSQL |
-| Frontend | React, TypeScript, Tailwind |
-
-🔗 [Code](https://github.com/AnmolCanCodes/AI-Customer-Support-Copilot)
-
-<br/>
-
-### 🔍 AI-Repo-Intelligence-Agent
-
-An AI agent that analyzes GitHub repositories end-to-end, using LangGraph-driven reasoning and RAG to answer questions and surface insights about a codebase.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolCanCodes&repo=AI-Repo-Intelligence-Agent&theme=nord&title_color=90EE90&icon_color=90EE90&border_color=90EE90" alt="AI-Repo-Intelligence-Agent"/>
-</div>
-
-| Layer | Technology |
-|---|---|
-| Backend | FastAPI, Python |
-| AI / Orchestration | LangGraph, RAG |
-| Data Handling | NumPy, Pandas |
-
-🔗 [Code](https://github.com/AnmolCanCodes/AI-Repo-Intelligence-Agent)
-
-<br/>
 
 ## 🛠️ Tech Stack
 
