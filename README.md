@@ -1,5 +1,6 @@
-![Coding animation](./assets/samurai.gif)
-
+<div align="center">
+  <img src="./assets/samurai.gif" alt="Samurai coding animation" width="85%" />
+</div>
 <div align="center">
 
 # Anmol Gupta
