@@ -1,4 +1,4 @@
-![Coding animation](./assets/coding.gif)
+![Coding animation](./assets/samurai.gif)
 
 <div align="center">
 
