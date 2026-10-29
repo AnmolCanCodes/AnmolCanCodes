@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/samurai.gif" alt="Samurai coding animation" width="85%" />
+  <img src="./assets/samurai.gif" alt="Samurai coding animation" width="50%" />
 </div>
 <div align="center">
 
