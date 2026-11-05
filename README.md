@@ -78,7 +78,7 @@ Building practical software powered by AI, APIs, and open-source tools.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frontend**
+**Frontend Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -94,16 +94,23 @@ Building practical software powered by AI, APIs, and open-source tools.
 ![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**AI & Data**
+**Generative AI & Agentic Systems**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Data Science & Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+*Core Skills:* Exploratory Data Analysis (EDA) · Data Preprocessing · Feature Engineering · Data Visualization · Machine Learning Fundamentals · Model Evaluation
 
 **Tools & Deployment**
 
@@ -113,8 +120,6 @@ Building practical software powered by AI, APIs, and open-source tools.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
----
 
 ## GitHub Stats
 
