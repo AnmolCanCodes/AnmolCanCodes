@@ -125,25 +125,19 @@ Building practical software powered by AI, APIs, and open-source tools.
 
 <div align="center">
 
-  <img
-    src="./profile/stats.svg"
-    alt="Anmol's GitHub Stats"
-    height="180"
-  />
+<img src="https://raw.githubusercontent.com/AnmolCanCodes/AnmolCanCodes/main/profile/stats.svg"
+     alt="Anmol's GitHub Stats"
+     height="180" />
 
-  <img
-    src="./profile/top-langs.svg"
-    alt="Most Used Languages"
-    height="180"
-  />
+<img src="https://raw.githubusercontent.com/AnmolCanCodes/AnmolCanCodes/main/profile/top-langs.svg"
+     alt="Most Used Languages"
+     height="180" />
 
-  <br />
+<br />
 
-  <img
-    src="./profile/streak.svg"
-    alt="GitHub Contribution Streak"
-    width="70%"
-  />
+<img src="https://raw.githubusercontent.com/AnmolCanCodes/AnmolCanCodes/main/profile/streak.svg"
+     alt="GitHub Contribution Streak"
+     width="70%" />
 
 </div>
 
