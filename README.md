@@ -125,11 +125,25 @@ Building practical software powered by AI, APIs, and open-source tools.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnmolCanCodes&show_icons=true&theme=nord&hide_border=true&cache_seconds=86400" height="165" />
+  <img
+    src="./profile/stats.svg"
+    alt="Anmol's GitHub Stats"
+    height="180"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolCanCodes&layout=compact&theme=nord&hide_border=true&cache_seconds=86400" height="165" />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Most Used Languages"
+    height="180"
+  />
 
-<img src="https://streak-stats.demolab.com?user=AnmolCanCodes&theme=nord&hide_border=true" />
+  <br />
+
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
 
 </div>
 
