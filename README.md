@@ -125,11 +125,11 @@ Building practical software powered by AI, APIs, and open-source tools.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnmolCanCodes&show_icons=true&theme=nord&hide_border=true&title_color=90EE90&icon_color=90EE90&text_color=c9d1d9&bg_color=0D1117" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnmolCanCodes&show_icons=true&theme=nord&hide_border=true&cache_seconds=86400" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolCanCodes&layout=compact&theme=nord&hide_border=true&title_color=90EE90&text_color=c9d1d9&bg_color=0D1117" alt="Most used languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolCanCodes&layout=compact&theme=nord&hide_border=true&cache_seconds=86400" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=AnmolCanCodes&theme=nord&hide_border=true&background=0D1117&ring=90EE90&fire=90EE90&currStreakLabel=90EE90" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=AnmolCanCodes&theme=nord&hide_border=true" />
 
 </div>
 
