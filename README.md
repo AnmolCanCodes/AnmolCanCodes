@@ -65,8 +65,8 @@ Building practical software powered by AI, APIs, and open-source tools.
 |---|---|---|
 | [AI Repo Intelligence Agent](https://github.com/AnmolCanCodes/AI-Repo-Intelligence-Agent) · [Live Demo](https://ai-repo-intelligence-agent.vercel.app) | Ask questions about a codebase using retrieval and a LangGraph-based workflow. | Demo available |
 | [PriceZen](https://github.com/AnmolCanCodes/pricezen-frontend) · [Live Website](https://pricezen.in/) | Competitor price monitoring for e-commerce businesses. | Website live |
-| [SnapRecall](https://github.com/AnmolCanCodes/snaprecall) ·[Live Demo](https://snaprecall.vercel.app/) | SnapRecall:Find any screenshot by typing what you remember about it.
-| [Ghostbook](https://github.com/AnmolCanCodes/Ghostbook) · [live Demo](https://ghostbook-web.vercel.app/) | Ghostbook is a map of your online accounts, It remembers which email you signed up with, which username you picked, and how to reset access, so the next time you forget, "Forgot password" works on the first click. Gemma, an open-weight model, turns messy notes into structured entries, answers questions about your accounts in plain language |
+| [SnapRecall](https://github.com/AnmolCanCodes/snaprecall) ·[Live Demo](https://snaprecall.vercel.app/) | SnapRecall:Find any screenshot by typing what you remember about it. | Website live |
+| [Ghostbook](https://github.com/AnmolCanCodes/Ghostbook) · [live Demo](https://ghostbook-web.vercel.app/) | Ghostbook is a map of your online accounts, It remembers which email you signed up with, which username you picked, and how to reset access, so the next time you forget, "Forgot password" works on the first click. Gemma, an open-weight model, turns messy notes into structured entries, answers questions about your accounts in plain language | Website live |
 
 ## Tech Stack
 
